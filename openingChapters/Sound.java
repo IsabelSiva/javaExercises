@@ -1,3 +1,5 @@
+package openingChapters;
+
 import java.lang.System;
 import java.util.Scanner;
 

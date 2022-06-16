@@ -1,3 +1,5 @@
+package openingChapters;
+
 public class Gravity{
 
 	public static void main(String args []){

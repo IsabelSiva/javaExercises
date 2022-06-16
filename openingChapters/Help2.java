@@ -1,3 +1,5 @@
+package openingChapters;
+
 import java.io.IOException;
 
 public class Help2 {
@@ -5,7 +7,7 @@ public class Help2 {
 
         char choice, ignore;
         do {
-            System.out.println("Help on: ");
+            System.out.println("openingChapters.Help on: ");
             System.out.println("1. if ");
             System.out.println("2. switch");
             System.out.println("3. for");

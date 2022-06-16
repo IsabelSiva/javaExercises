@@ -1,3 +1,5 @@
+package openingChapters;
+
 public class Polegada {
     public static void main(String args []){
 		double polegadas = 12.0, metros;

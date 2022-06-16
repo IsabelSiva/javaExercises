@@ -1,8 +1,10 @@
+package openingChapters;
+
 import java.io.IOException;
 
 public class Help {
     public static void main(String [] args) throws IOException {
-        System.out.println("Help on: ");
+        System.out.println("openingChapters.Help on: ");
         System.out.println("1. if ");
         System.out.println("2. switch");
         char resp = (char) System.in.read();
